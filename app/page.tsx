@@ -1,8 +1,9 @@
+import EmailBuilder from "./components/EmailBuilder";
 
 export default function Home() {
   return (
-    <main>
-      <h1>Hello,World</h1>
+    <main className="">
+      <EmailBuilder />
     </main>
   );
 }
