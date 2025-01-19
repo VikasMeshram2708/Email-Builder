@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Email Builder
 
-## Getting Started
+Create your own customized email templates quickly and easily with this website.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Customizable Logo**: Replace the default logo with one of your choice.  
+- **Editable Text**: Update the title and description to match your needs.  
+- **Custom Main Image**: Personalize your template with an image of your choice.  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## How to Use
 
-## Learn More
+1. **Change the Logo**  
+   - Click on the logo area.  
+   - Select your desired image from your file manager.  
 
-To learn more about Next.js, take a look at the following resources:
+2. **Update the Title and Description**  
+   - Click on the title or description.  
+   - Enter the text you want.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Replace the Main Image**  
+   - Click on the main image area.  
+   - Choose your preferred image from your file manager.  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Exporting Your Template
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Locate the **Settings Panel** on the right-hand side of the screen.  
+- Use the panel to view or download the HTML code for your customized template.  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+**Tip**: Keep your design simple and clean for better email engagement.  
